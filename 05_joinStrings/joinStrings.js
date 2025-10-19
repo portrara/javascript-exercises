@@ -8,8 +8,14 @@
 */
 
 // Add your code right below, good luck!
+const firstname = "carlos";
+const lastname ="stevenson";
+const thisyear = 1965;
+const birthyear = 1947;
 
 
+
+const greeting = "Hello! My name is " + fullName + " and I am " + age + " years old.";
 
 
 
